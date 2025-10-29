@@ -1,2 +1,2 @@
 # index.html-
-Html  5 code 
+Add index.html for HTML5 Accessibility & SEO assignment
